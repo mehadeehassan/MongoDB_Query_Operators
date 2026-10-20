@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TechCorp Bangladesh",
+    "founded": 2015,
+    "employees": 500,
+    "industry": "Software"
+  },
+  {
+    "name": "Digital Solutions",
+    "founded": 2018,
+    "employees": 120,
+    "industry": "Web"
+  },
+  {
+    "name": "AIVentures",
+    "founded": 2020,
+    "employees": 80,
+    "industry": "AI/ML"
+  },
+  {
+    "name": "CloudBase Ltd",
+    "founded": 2017,
+    "employees": 200,
+    "industry": "Cloud"
+  },
+  {
+    "name": "CreativeMinds",
+    "founded": 2019,
+    "employees": 50,
+    "industry": "Design"
+  }
+]
